@@ -1,0 +1,6 @@
+./source/.tmp/
+./source/.cache/
+./source/.git/
+./source/build/
+./source/node_modules/
+./source/data/
