@@ -22,7 +22,7 @@ spec:
             - containerPort: 1337
           env:
            - name: DATABASE_HOST
-             value: "10.96.37.149"
+             value: "10.96.157.42"
            - name: DATABASE_USERNAME
              valueFrom:
                secretKeyRef:
